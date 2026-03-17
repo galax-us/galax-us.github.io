@@ -1,1 +1,0 @@
-import{at as t,au as s}from"./index-652f8220.js";const o=()=>t({url:"/wap/seller/orders!list-returns.action",method:s.POST}),a=r=>t({url:"/wap/seller/orders!details-returns.action",method:s.POST,data:r}),n=r=>t({url:"/wap/api/order!listGoods.action",method:s.POST,params:r});export{o as _,a as d,n as o};
