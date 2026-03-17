@@ -1,0 +1,1 @@
+System.register(["./index-legacy-ba0bcc32.js"],function(e,t){"use strict";var r,n,c,u;return{setters:[e=>{r=e._,n=e.f,c=e.y,u=e.m}],execute:function(){e("default",r({},[["render",function(e,t){const r=u("router-view");return n(),c(r)}]]))}}});

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-36690d74.js"],function(e,n){"use strict";var t;return{setters:[e=>{t=e.J}],execute:function(){e("u",function(){const e=t(),{name:u="unknown"}=(null==e?void 0:e.type)||{};return`${u}-${++n}`});let n=0}}});
